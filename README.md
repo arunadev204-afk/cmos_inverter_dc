@@ -1,5 +1,7 @@
 # cmos_inverter_dc
-## EXPERIMENT2.b Design CMOS inverter and Perform DC and OP analysis.
+## REG NUM :
+## NAME :
+## EXPERIMENT 2.b Design CMOS inverter and Perform DC and OP analysis.
 
 ## Aim: To Design CMOS inverter and Perform DC and OP analysis.
 
